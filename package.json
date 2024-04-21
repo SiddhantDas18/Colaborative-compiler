@@ -1,4 +1,5 @@
 {
+  
 
   "name": "realtime-editor",
 
@@ -47,6 +48,8 @@
     "start:front": "react-scripts start",
 
     "start": "npm run build && npm run server:prod",
+    
+
 
     "build": "react-scripts build",
 
