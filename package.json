@@ -1,5 +1,5 @@
 {
-  "homepage": "https://siddhantdas18.github.io/Colaborative-compiler",
+  
 
   "name": "realtime-editor",
 
@@ -49,9 +49,7 @@
 
     "start": "npm run build && npm run server:prod",
     
-    "predeploy": "npm run build",
 
-    "deploy": "gh-pages -c build",
 
     "build": "react-scripts build",
 
