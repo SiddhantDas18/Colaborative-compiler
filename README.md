@@ -1,6 +1,6 @@
 # How to use the collaborative Code editior ?
 
-## Create Room ID and Join the room
+> Create <sup>RoomID</sup>  and <sup>Join</sup> the room
 
 # Home Page - 
 ### ![Screenshot 2024-05-28 201421](https://github.com/SiddhantDas18/Colaborative-compiler/assets/66473233/9a90955c-2827-4f3e-89ea-f09e2519aac4)
